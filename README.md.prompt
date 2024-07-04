@@ -1,0 +1,32 @@
+Create a README.md file for a Visual Studio Code extension named "DotPrompt VSCode". This extension allows users to run .prompt files directly from VS Code using the dotprompt CLI command. Include the following sections:
+
+1. Introduction: Briefly explain what DotPrompt VSCode does and its main purpose.
+
+2. Features: List the key features of the extension, such as:
+   - Run .prompt files directly from VS Code
+   - Integration with the dotprompt CLI
+   - Syntax highlighting for .prompt files (if applicable)
+
+3. Installation: Provide step-by-step instructions on how to install the extension from the VS Code Marketplace.
+
+4. Usage: Explain how to use the extension, including:
+   - How to run a .prompt file
+   - Any keyboard shortcuts or commands
+   - Configuration options (if any)
+
+5. Requirements: List any prerequisites or dependencies, such as having the dotprompt CLI installed.
+
+6. Known Issues: Mention any known issues or limitations of the extension.
+
+7. Contributing: Provide information on how users can contribute to the project, including a link to the GitHub repository.
+
+8. License: Specify the license under which the extension is released.
+
+9. Contact: Include information on how to reach the extension author or maintainer.
+
+Use Markdown formatting to structure the README file properly. Include appropriate headings, lists, and code blocks where necessary. The tone should be professional but friendly, aimed at developers who are potential users of the extension.
+
+For specifics, use the following details:
+<details>
+@include(../dotprompt/README.md)
+</details>
